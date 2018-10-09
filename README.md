@@ -9,3 +9,7 @@ Clone down the repo, move into the source directory and:
 > npm start
 ```
 Navigate to http://localhost:8080!
+
+#### Todo
+- Jest testing
+- UI Improvements
