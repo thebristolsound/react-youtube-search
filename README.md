@@ -1,7 +1,5 @@
 # Youtube Video Search Web Application using React
-
-Completed Application based off Stephen Grider's course
-Learning [Redux](https://www.udemy.com/react-redux/)?
+Completed application for Youtube Video Search for Modern React/Redux course by Stephen GriderLearning [Redux](https://www.udemy.com/react-redux/)?
 
 ### Getting Started
 
